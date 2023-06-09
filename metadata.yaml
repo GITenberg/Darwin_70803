@@ -1,5 +1,8 @@
 _repo: Darwin_70803
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70803-h/images/cover.jpg
 creator:
   author:
     agent_name: Bradford, Gamaliel
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/55932
     wikipedia: https://en.wikipedia.org/wiki/Gamaliel_Bradford_(biographer)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70803#Darwin
 gutenberg_issued: '2023-05-19'
 identifiers:
   gutenberg: '70803'
